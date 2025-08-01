@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Yohannes. </p>
+<h1 align="center">Hi 👋 I'm Yohannes</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on a [realestate selling and buying platform](https://www.github.com/y0hannes/estatehub/) using React and Express
+<p align="left">✨ I'm currently working on a realestate selling and buying platform using React and Express
 <br>📚 I'm currently learning Typescript and React-Native
 <br>🔭 I'm intrested in machine learning, automation and AI
 <br>
